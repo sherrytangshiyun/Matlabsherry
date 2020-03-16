@@ -1,0 +1,2 @@
+LucamCameraClose(cam);
+Screen('CloseAll');
